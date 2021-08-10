@@ -1,0 +1,33 @@
+.Ui_Card{
+    display: flex;
+    padding: 10px;
+   
+    
+    
+}
+.Img{
+    flex: 0.2;
+    padding: 5px;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+   
+}
+.content{
+    flex: 0.8;
+    padding: 20px;
+}
+.Top__Title{
+    margin:10px ;
+    align-items: center;
+
+}
+.MuiTypography-root{
+    padding: 10px;
+}
+.About{
+    padding: 20px;
+    font-size: 1.5rem;
+}
